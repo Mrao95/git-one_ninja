@@ -122,11 +122,6 @@ All projects are **full-stack web applications** built with **HTML, CSS, JavaScr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.free.nf/api?username=mrao-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.free.nf/api/top-langs/?username=mrao95&layout=compact&theme=radical&langs_count=8" />
-</div>
-
-<div align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrao95&theme=radical" />
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=mrao95&theme=radical&no-frame=true&row=1&column=4" />
 </div>
