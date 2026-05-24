@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3500&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Omar+Nafukho+Chitechi+👋;ICT+Professional+%7C+Web+Developer;Problem+Solver+%7C+Tech+Enthusiast;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
 
 <!-- Banner Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juma%20Ken&fontSize=60&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Chitechi&fontSize=60&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Profile Badges -->
 <p>
@@ -122,8 +122,8 @@ All projects are **full-stack web applications** built with **HTML, CSS, JavaScr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrao95&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrao95&layout=compact&theme=radical&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.free.nf/api?username=mrao-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.free.nf/api/top-langs/?username=mrao95&layout=compact&theme=radical&langs_count=8" />
 </div>
 
 <div align="center">
