@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3500&pause=500&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Juma+Ken+Kassim+👋;ICT+Professional+%7C+Web+Developer;Problem+Solver+%7C+Tech+Enthusiast;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello,+I'm+Juma+Ken+Kassim;ICT+Professional+|+Web+Developer;Problem+Solver+|+Tech+Enthusiast;Welcome+to+my+GitHub" alt="Typing SVG" />
 
 <!-- Gradient Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juma%20Ken%20Kassim&fontSize=50&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
@@ -27,8 +27,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 </div>
-
----
 
 ## 🌟 About Me
 
