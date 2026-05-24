@@ -1,16 +1,12 @@
 <div align="center">
-
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3500&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Juma+Ken+👋;ICT+Professional+%7C+Web+Developer;Problem+Solver+%7C+Tech+Enthusiast;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
-
 <!-- Gradient Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juma%20Ken&fontSize=60&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Nafukho%20Chitechi&fontSize=50&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Profile Stats Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=jumaken&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jumaken?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/jumaken?label=Total%20Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=mrao95&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mrao95?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mrao95?label=Total%20Stars&style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Kenya-🇰🇪-blue?style=flat-square" alt="Kenya" />
 </p>
 
@@ -28,6 +24,8 @@
 
 </div>
 
+<br/>
+
 ---
 
 ## 🌟 About Me
@@ -39,8 +37,8 @@
         <li>💻 <strong>ICT Professional</strong> with <strong>4+ years</strong> of hands-on experience</li>
         <li>🏫 Former <strong>ICT Lab Technician</strong> at Mvita Technical Training Institute</li>
         <li>🔧 Expert in <strong>hardware maintenance, networking, and IT support</strong></li>
-        <li>📚 <strong>Diploma in ICT</strong> from Kaiboi National Polytechnic</li>
-        <li>🌱 Currently learning <strong>Python, TypeScript, and Advanced Cybersecurity</strong></li>
+        <li>📚 <strong>Diploma in ICT</strong> from Kaimosi Friends National Polytechnic (KFNP)</li>
+        <li>🌱 Currently learning <strong>Python, TypeScript, and Advanced Cybersecurity and Ai & Machine Learning</strong></li>
         <li>🤝 Open to collaboration on <strong>web dev, IT support, and tech training projects</strong></li>
       </ul>
     </td>
@@ -49,7 +47,7 @@
       <br />
       <em>"Code. Fix. Teach. Repeat."</em>
     </td>
-   </tr>
+  </tr>
 </table>
 
 > 💡 **My Philosophy:** *"Technology should work for people, not the other way around."*
@@ -110,7 +108,7 @@ All projects are **full-stack web applications** built with **HTML, CSS, JavaScr
 
 | **Certification** | **Institution** | **Year** |
 |-------------------|----------------|----------|
-| Diploma in Information Communication Technology (ICT) | Kaiboi National Polytechnic | 2023–2025 |
+| Diploma in Information Communication Technology (ICT) | Kaimosi Friends National Polytechnic (KFNP) | 2023–2025 |
 | Basic Digital Productivity Skills | ICT Authority | 2023 |
 | Technical Training (Networking, Electronics, CCTV, OS Installation) | — | 2019–2020 |
 | End User Computing (MS Office, Google Workspace, Cloud Storage) | — | 2019–2020 |
@@ -122,17 +120,12 @@ All projects are **full-stack web applications** built with **HTML, CSS, JavaScr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jumaken&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumaken&layout=compact&theme=radical&langs_count=8" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrao95&theme=radical" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=mrao95&theme=radical&no-frame=true&row=1&column=4" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jumaken&theme=radical" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=jumaken&theme=radical&no-frame=true&row=1&column=4" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jumaken&theme=radical&area=true&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrao95&theme=radical&area=true&hide_border=true" />
 </div>
 
 ---
@@ -140,45 +133,46 @@ All projects are **full-stack web applications** built with **HTML, CSS, JavaScr
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/jumaken" target="_blank">
+  <a href="https://linkedin.com/in/mrao195" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/jumaken" target="_blank">
+  <a href="https://twitter.com/mrao195" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://jumaken-portfolio.netlify.app" target="_blank">
+  <a href="https://mrao-dev.free.nf/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:jumaken@gmail.com">
+  <a href="mailto:mraonafukho@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/254729490880" target="_blank">
+  <a href="https://wa.me/254729953650" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@jumaken" target="_blank">
+  <a href="https://youtube.com/@mrao195" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 
+<!-- after creating this web accounts activate the links by disabling the comments section
 ---
 
 ## ☕ Support My Work
 
 <div align="center">
-  <a href="https://buymeacoffee.com/jumaken" target="_blank">
+  <a href="https://buymeacoffee.com/omar195" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://ko-fi.com/jumaken" target="_blank">
+  <a href="https://ko-fi.com/omar195" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </div>
 
 ---
+ -->
 
 ## 🎯 Current Goals
 
 - 🚀 Complete and deploy all 6 featured projects
-- 📚 Obtain **CompTIA A+** and **Network+** certifications
 - 🌍 Build a personal portfolio website
 - 🤝 Collaborate on open-source ICT and education projects
 - 📝 Start a tech tutorial YouTube channel
