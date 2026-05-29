@@ -55,7 +55,6 @@
 </table>
 
 > 💡 **My Philosophy:** *"Technology should work for people, not the other way around."*
-
 ---
 
 ## 🛠 Technical Skills
