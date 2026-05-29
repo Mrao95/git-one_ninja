@@ -68,7 +68,6 @@
 ### 🖥️ IT & Hardware
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/CCTV-FF0000?style=for-the-badge&logo=camera&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware%20Repair-FF5722?style=for-the-badge&logo=ifixit&logoColor=white" />
